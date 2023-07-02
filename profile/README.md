@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome To Medain NFT Github 
 
-## How Are We ?
+## Who Are We ?
 
 Welcome to Medain, your ultimate middleman service for Valorant, Minecraft, and more! 🎮🔁
 
